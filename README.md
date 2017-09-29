@@ -3,6 +3,7 @@ Documentation is so often unvalued and overlooked that the hard work, skill and 
 
 ## A-Z of Examples
 * **[Apiary](https://help.apiary.io/tools/embed/)** - A nice example of interactive documentation.
+* **[Bonusly](https://bonusly.gelato.io/docs/versions/353215342023018198)** - Simple and interactive site built using [Gelato.io](https://gelato.io). What's not to like?
 * **[Box](https://developer.box.com/reference)** - An engaging API doc created using [ReadMe](https://readme.io) which offers user interactivity.
 * **[Digital Ocean](https://developers.digitalocean.com/documentation/v2/#introduction)** - Woah, these docs are so clean. Full of examples and easy/enjoyable to navigate.
 * **[Grafana](http://docs.grafana.org/)** - 100% dark theme but I really like the design and its in keeping with their brand.
