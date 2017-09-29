@@ -5,3 +5,4 @@ Documentation is so often unvalued and overlooked that the hard work, skill and 
 * **[Box](https://developer.box.com/reference)** - An API doc with a nice design and interactivity for readers.
 * **[Mailchimp](http://developer.mailchimp.com/documentation/mailchimp/reference/overview/)** - Aspects of this site are so nicely designed it makes me a bit jealous. The API reference guide in particular.
 * **[Monzo](https://monzo.com/docs)** - I'm a big fan of Monzo and I'm a big fan of their API doc with its beautiful UX/UI design which allows you to scroll effortlessly through the content.
+* **[Vue.js](https://vuejs.org/v2/guide/index.html)** - Simple, clean and easy to navigate. Has a nice search feature which splits the search results.
