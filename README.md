@@ -1,5 +1,5 @@
 # Awesome Docs
-Documentation is so often unvalued and overlooked that the hard work, skill and creativity which goes into it goes unrecognised. Inspired by Mark Phillips [Beautiful-Docs repository](https://github.com/PharkMillups/beautiful-docs), I decided to create my own and highlight some docs spaces and sites which I think are awesome in terms of their design, layout, content and interactivity. 
+Documentation is so often unvalued and overlooked that the hard work, skill and creativity which goes into it goes unrecognised. Inspired by Mark Phillips [Beautiful-Docs repository](https://github.com/PharkMillups/beautiful-docs), I decided to create my own and highlight some docs spaces and sites which are awesome for either their design, layout, content or interactivity. 
 
 ## A-Z of Examples
 * **[Apiary](https://help.apiary.io/tools/embed/)** - A nice example of interactive documentation.
