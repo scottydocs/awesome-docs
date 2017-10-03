@@ -6,7 +6,7 @@ Documentation is so often unvalued and overlooked that the hard work, skill and 
 * **[Bonusly](https://bonusly.gelato.io/docs/versions/353215342023018198)** - Simple and interactive site built using [Gelato.io](https://gelato). What's not to like?
 * **[Box](https://developer.box.com/reference)** - An engaging API doc created using [ReadMe](https://readme.io) which offers user interactivity.
 * **[Digital Ocean](https://developers.digitalocean.com/documentation/v2/#introduction)** - These docs are great. Full of examples and easy/enjoyable to navigate.
-* **[Grafana](http://docs.grafana.org/)** - Very Tron with the 100% dark theme but really like the design and its in keeping with their brand.
+* **[Grafana](http://docs.grafana.org/)** - Unusual dark theme but really like the design and its in keeping with their brand.
 * **[Lightrail](https://www.lightrail.com/docs/)** Really nice split screen with interactive section that can switch between example and console views.
 * **[Luxbar](https://balzss.github.io/luxbar/)** This docs page demos the flexibility of the product (a CSS navigation bar) as you click around and change the colours, positioning, alignment etc. Very clever.
 * **[Mailchimp](http://developer.mailchimp.com/documentation/mailchimp/reference/overview/)** - Aspects of this site are so nicely designed it makes me a bit jealous. The API reference guide in particular.
