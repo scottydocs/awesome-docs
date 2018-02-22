@@ -16,6 +16,7 @@ Documentation is so often unvalued and overlooked that the hard work, skill and 
 * **[Mailchimp](http://developer.mailchimp.com/documentation/mailchimp/reference/overview/)** - Aspects of this site are so nicely designed it makes me a bit jealous. The API reference guide in particular.
 * **[Mapbox](https://www.mapbox.com/mapbox-gl-js/api/)** - Very clean docs with nice use of colour.
 * **[Monzo](https://monzo.com/docs)** - I'm a big fan of Monzo and like the product, the docs have a great UX design which allows you to scroll effortlessly through the content.
+* **[Nest](https://developers.nest.com/documentation/api-reference)** - Very cool interactive API reference from Nest Labs (part of Google).
 * **[Rot.js](http://ondras.github.io/rot.js/manual/)** Not necessarily the prettiest but really like the interactive code examples which can be changed. The animated side menu is always pretty cool.
 * **[Slack](https://api.slack.com/)** - Colourful and fun with the Slack brand of humour but well designed like the product.
 * **[Stripe](https://stripe.com/docs/api#intro)** - Stripe go a great job of providing copy-paste ready sample calls in their API reference guide.
