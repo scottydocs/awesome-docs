@@ -15,6 +15,7 @@ Documentation is so often unvalued and overlooked that the hard work, skill and 
 * **[Docker](https://docs.docker.com/get-started/)** - Not just bigging them up because my boss was a contributor. These are really nice docs - very cool day and night switch to change between dark and light themes. 
 * **[Docker API](https://docs.docker.com/engine/api/v1.25/)** - I really like the three-panelled Docker API docs which have been produced using [ReDoc](https://github.com/Rebilly/ReDoc). 
 * **[Grafana](http://docs.grafana.org/)** - Unusual dark theme but really like the design and its in keeping with their brand.
+* **[Lateral.io](https://lateral.io/docs/api/reference/v6)** - A great example of API docs created with API Blueprint renderer [Agilo](https://github.com/danielgtaylor/aglio).
 * **[Lightrail](https://www.lightrail.com/docs/)** Really nice split screen with interactive section that can switch between example and console views.
 * **[Luxbar](https://balzss.github.io/luxbar/)** This docs page demos the flexibility of the product (a CSS navigation bar) as you click around and change the colours, positioning, alignment etc. Very clever.
 * **[Mailchimp](http://developer.mailchimp.com/documentation/mailchimp/reference/overview/)** - Aspects of this site are so nicely designed it makes me a bit jealous. The API reference guide in particular.
