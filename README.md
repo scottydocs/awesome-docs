@@ -6,11 +6,13 @@ Documentation is so often unvalued and overlooked that the hard work, skill and 
 
 ## A-Z of Examples
 * **[Apiary](https://help.apiary.io/tools/embed/)** - A nice example of interactive documentation.
+* **[Auth0](https://auth0.com/docs/api/authentication?http#introduction)** - Really good API documentation.
 * **[Bonusly](https://bonusly.gelato.io/docs/versions/353215342023018198)** - Simple and interactive site built using [Gelato.io](https://gelato). What's not to like?
 * **[Box](https://developer.box.com/reference)** - An engaging API doc created using [ReadMe](https://readme.io) which offers user interactivity.
 * **[Cockroach Labs](https://www.cockroachlabs.com/docs/stable/)** - Fun, clean and well-designed.  
 * **[Digital Ocean](https://developers.digitalocean.com/documentation/v2/#introduction)** - These docs are great. Full of examples and easy/enjoyable to navigate.
 * **[Docker](https://docs.docker.com/get-started/)** - Not just bigging them up because my boss was a contributor. These are really nice docs - very cool day and night switch to change between dark and light themes. 
+* **[Docker API](https://docs.docker.com/engine/api/v1.25/)** - I really like the three-panelled Docker API docs which have been produced using ReDoc. 
 * **[Grafana](http://docs.grafana.org/)** - Unusual dark theme but really like the design and its in keeping with their brand.
 * **[Lightrail](https://www.lightrail.com/docs/)** Really nice split screen with interactive section that can switch between example and console views.
 * **[Luxbar](https://balzss.github.io/luxbar/)** This docs page demos the flexibility of the product (a CSS navigation bar) as you click around and change the colours, positioning, alignment etc. Very clever.
