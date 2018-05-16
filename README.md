@@ -19,6 +19,7 @@ Documentation is so often unvalued and overlooked that the hard work, skill and 
 * **[Monzo](https://monzo.com/docs)** - I'm a big fan of Monzo and like the product, the docs have a great UX design which allows you to scroll effortlessly through the content.
 * **[Nest](https://developers.nest.com/documentation/api-reference)** - Very cool interactive API reference from Nest Labs (part of Google).
 * **[Rot.js](http://ondras.github.io/rot.js/manual/)** Not necessarily the prettiest but really like the interactive code examples which can be changed. The animated side menu is always pretty cool.
+* **[Shopify Developers](https://developers.shopify.com/)** - Easy to navigate, in-line glossary pop-ups, search and discoverability as a core site feature, separation of content concerns (API and Knowledgbase are not merged).
 * **[Slack](https://api.slack.com/)** - Colourful and fun with the Slack brand of humour but well designed like the product.
 * **[Stripe](https://stripe.com/docs/api#intro)** - Stripe go a great job of providing copy-paste ready sample calls in their API reference guide.
 * **[Twilio](https://www.twilio.com/docs/)** - Twilio Docs have a really distinctive style with bold headings and colours to denote each section (green for API/SDKs, blue for Quickstart, yellow for tutorials) to make navigation easy. 
