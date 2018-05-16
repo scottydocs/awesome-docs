@@ -5,7 +5,7 @@
 Documentation is so often unvalued and overlooked that the hard work, skill and creativity which goes into it goes unrecognised. Inspired by Mark Phillips [Beautiful-Docs repository](https://github.com/PharkMillups/beautiful-docs), I decided to create my own and highlight some docs spaces and sites which are awesome for either their design, layout, content or interactivity. 
 
 ## A-Z of Examples
-* **[Adyen](https://docs.adyen.com/developers)** - Payment provider Adyen have produced a clean developer portal using Confluence. The API explorer is also pretty stylish.
+* **[Adyen](https://docs.adyen.com/developers)** - A clean developer portal and stylish API explorer.
 * **[Apiary](https://help.apiary.io/tools/embed/)** - A nice example of interactive documentation.
 * **[Auth0](https://auth0.com/docs/api/authentication?http#introduction)** - Really good API documentation.
 * **[Bonusly](https://bonusly.gelato.io/docs/versions/353215342023018198)** - Simple and interactive site built using [Gelato.io](https://gelato). What's not to like?
