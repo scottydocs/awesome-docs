@@ -25,7 +25,7 @@ Documentation is so often unvalued and overlooked that the hard work, skill and 
 * **[Rot.js](http://ondras.github.io/rot.js/manual/)** Not necessarily the prettiest but really like the interactive code examples which can be changed. The animated side menu is always pretty cool.
 * **[Shopify Developers](https://developers.shopify.com/)** - Easy to navigate, in-line glossary pop-ups, search and discoverability as a core site feature, separation of content concerns (API and Knowledgbase are not merged).
 * **[Skyscanner](https://skyscanner.github.io/slate/#api-documentation)** - Another nice set of API docs produced with [Slate](https://github.com/lord/slate). 
-* **[Slack](https://api.slack.com/)** - Colourful and fun with the Slack brand of humour but well designed like the product.
+* **[Slack](https://api.slack.com/)** - Colourful and fun with the Slack brand of humour but well-designed like the product.
 * **[Stripe](https://stripe.com/docs/api#intro)** - Stripe go a great job of providing copy-paste ready sample calls in their API reference guide.
 * **[Twilio](https://www.twilio.com/docs/)** - Twilio Docs have a really distinctive style with bold headings and colours to denote each section (green for API/SDKs, blue for Quickstart, yellow for tutorials) to make navigation easy. 
 * **[Vue.js](https://vuejs.org/v2/guide/index.html)** - Simple, clean and easy to navigate. Has a nice search feature which splits the search results.
