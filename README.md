@@ -1,8 +1,6 @@
 # Awesome Docs
 
-*“Documentation is like sex; when it’s good, it’s very, very good, and when it’s bad, it’s better than nothing.” — Dick Brandon*
-
-Documentation is so often unvalued and overlooked that the hard work, skill and creativity which goes into it goes unrecognised. Inspired by Mark Phillips [Beautiful-Docs repository](https://github.com/PharkMillups/beautiful-docs), I decided to create my own and highlight some docs spaces and sites which are awesome for either their design, layout, content or interactivity. 
+People often unvalue and overlook documentation so the hard work, skill and creativity can sometimes go unrecognised. Inspired by Mark Phillips [Beautiful-Docs repository](https://github.com/PharkMillups/beautiful-docs), I decided to create my own repo to highlight some docs sites which are awesome for either their design, layout, content or interactivity. 
 
 * **[Adyen](https://docs.adyen.com/developers)** - A clean developer portal and stylish API explorer.
 * **[Apiary](https://help.apiary.io/tools/embed/)** - A nice example of interactive documentation.
